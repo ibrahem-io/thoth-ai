@@ -7,8 +7,6 @@ def apply_studio_style():
             @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&display=swap');
             html, body, [class*="css"]  {
             font-family: "Noto Sans Arabic", sans-serif;
-            unicode-bidi: bidi-override;
-            text-align: right;
 			}
 
         </style>
