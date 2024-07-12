@@ -7,5 +7,5 @@ if __name__ == '__main__':
         page_title="Thoth AI"
     )
     apply_studio_style()
-    st.title("AI for Business Excellence")
-    st.markdown("Beta Version v0.1" )
+    st.title("Thoth AI")
+    st.markdown("AI For Business Excellence")
